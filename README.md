@@ -6,7 +6,7 @@
  
  :heavy_dollar_sign: Aplicativo de Transferências Rápidas
 
-<img align="center" height="400" width="250" src="/scr/bancosirius.gif">
+<img align="center" height="400" width="260" src="/scr/bancosirius.gif">
 
 ## Objetivo
 
